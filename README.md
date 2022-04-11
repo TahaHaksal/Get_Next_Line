@@ -22,4 +22,4 @@ Requirements:
 
 Goal of the project:
 	-Teach static variables,
-	-Getting accustomed with reading and opening files using C functions
+	-Getting accustomed with reading and opening files using C functions 
