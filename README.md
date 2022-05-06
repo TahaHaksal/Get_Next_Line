@@ -16,7 +16,7 @@ Requirements:
 	-Unless the eof is reached the terminating character should be '\n',
 	-Helper functions should be put in get_next_line_utils.c,
 	-Buffer size should be defined by the user,
-	-Global variables,
+	-Can't use Global variables,
 	-Can't have any memory leaks for obvious reasons,
 	-Has to compile with the following flags: -Wall -Werror -Wextra
 
